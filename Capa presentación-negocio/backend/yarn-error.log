@@ -1,0 +1,40 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js install
+
+PATH: 
+  D:\app\daniel.abrilot\product\11.2.0\client_2\bin;D:\app\daniel.abrilot\product\11.2.0\client_1;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\CA\SC\CAWIN\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin64;C:\Program Files (x86)\CA\DSM\bin;C:\Program Files (x86)\CA\SC\CBB\;C:\PROGRA~2\CA\SC\CAM\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_181\bin;D:\SOFTWARES\apache-maven-3.5.3\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\WinMerge;D:\app\daniel.abrilot\product\11.2.0\client_2\network\admin;C:\Program Files\Java\jdk1.8.0_181\bin;D:\SOFTWARES\apache-tomcat-9.0.2;C:\Program Files (x86)\Yarn\bin\;C:\Users\daniel.abrilot\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\daniel.abrilot\AppData\Local\Programs\Python\Python37-32\;C:\Users\daniel.abrilot\AppData\Local\Microsoft\WindowsApps;C:\Users\daniel.abrilot\AppData\Roaming\npm;C:\Users\daniel.abrilot\AppData\Local\GitHubDesktop\bin;C:\Users\daniel.abrilot\.dotnet\tools;d:\Programs\Microsoft VS Code\bin;C:\Users\daniel.abrilot\AppData\Local\atom\bin;C:\Users\daniel.abrilot\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  8.11.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'D:\0_____FUENTES\taller\taller\backend\node_modules\sqlite3\lib\binding\node-v57-win32-x64\node_sqlite3.node'
+
+npm manifest: 
+  {
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alvaro Fuentes",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.4",
+      "sqlite3": "^4.0.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

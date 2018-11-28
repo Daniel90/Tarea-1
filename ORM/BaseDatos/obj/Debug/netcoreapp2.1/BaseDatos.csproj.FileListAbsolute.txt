@@ -1,0 +1,12 @@
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\bin\Debug\netcoreapp2.1\BaseDatos.deps.json
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\bin\Debug\netcoreapp2.1\BaseDatos.dll
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\bin\Debug\netcoreapp2.1\BaseDatos.pdb
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.AssemblyInfoInputs.cache
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.AssemblyInfo.cs
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.dll
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.pdb
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\bin\Debug\netcoreapp2.1\Modelo.dll
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\bin\Debug\netcoreapp2.1\Modelo.pdb
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.csprojAssemblyReference.cache
+C:\Users\Daniel D\source\repos\Trabajo1\BaseDatos\obj\Debug\netcoreapp2.1\BaseDatos.csproj.CopyComplete
